@@ -1,0 +1,5 @@
+train.pkl
+val.pkl
+images
+*.png
+*.jpg
